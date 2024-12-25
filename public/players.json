@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm medium",
+    "nationality": "India",
+    "price": 300000,
+    "category": "All-rounder",
+    "image": "https://i.ibb.co.com/C1f3Yxx/rahul.webp"
+  },
+  {
+    "id": 2,
+    "name": "Aamir Khan",
+    "batting_style": "Left-hand",
+    "bowling_style": "Left-arm orthodox",
+    "nationality": "Pakistan",
+    "price": 250000,
+    "category": "Batsman",
+    "image": "https://i.ibb.co.com/bW8y08t/amikhan.jpg"
+  },
+  {
+    "id": 3,
+    "name": "James Anderson",
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm fast",
+    "nationality": "England",
+    "price": 400000,
+    "category": "All-rounder",
+    "image": "https://i.ibb.co.com/ZfzBYsC/james.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pat Cummins",
+    "batting_style": "Right-Arm",
+    "bowling_style": "Right-Hand-Bat",
+    "nationality": "Australia",
+    "price": 500000,
+    "category": "Batsman",
+    "image": "https://i.ibb.co.com/W0Qz0h3/david1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "batting_style": "Left-hand",
+    "bowling_style": "leg-spin",
+    "nationality": "Bangladesh",
+    "price": 450000,
+    "category": "All-rounder",
+    "image": "https://i.ibb.co.com/Yp8hzM2/shakib.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kane Williamson",
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm off-spin",
+    "nationality": "New Zealand",
+    "price": 350000,
+    "category": "Batsman",
+    "image": "https://i.ibb.co.com/QNYwRVD/kane.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Virat Kohli",
+    "batting_style": "Right-hand",
+    "bowling_style": "Right-arm medium",
+    "nationality": "India",
+    "price": 600000,
+    "category": "Batsman",
+    "image": "https://i.ibb.co.com/RvtCgGp/virat.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ben Stokes",
+    "batting_style": "Left-hand",
+    "bowling_style": "Right-arm fast-medium",
+    "nationality": "England",
+    "price": 700000,
+    "category": "All-rounder",
+    "image": "https://i.ibb.co.com/7kBDj7s/ben.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rashid Khan",
+    "batting_style": "Right-hand",
+    "bowling_style": "Leg-spin",
+    "nationality": "Afghanistan",
+    "price": 300000,
+    "category": "Bowler",
+    "image": "https://i.ibb.co.com/JkkPYD5/rashid.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Quinton de Kock",
+    "batting_style": "Left-hand",
+    "bowling_style": "Right-arm medium",
+    "nationality": "South Africa",
+    "price": 400000,
+    "category": "Wicketkeeper-Batsman",
+    "image": "https://i.ibb.co.com/hyFHkp4/quin.jpg"
+  }
+]
