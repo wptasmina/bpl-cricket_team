@@ -1,5 +1,5 @@
 # React + Vite
-Netlify Live link : https://cricket-team-2024.netlify.app  
+Netlify Live link :  https://cricket-team-2024.netlify.app 
 
 project name: BPL Cricket Team
 
