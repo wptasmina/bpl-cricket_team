@@ -6,7 +6,7 @@ const Banner = ({ handleInitialMoney }) => {
   return (
       <div
         style={{ backgroundImage: `url(${backgroundImg})` }}
-        className=" w-11/12 bg-[#131313] mx-auto bg-cover bg-center flex flex-col justify-center items-center gap-5 py-10 rounded-md px-2 mb-10"
+        className=" w-11/12 bg-[#131313] mx-auto bg-cover bg-center flex flex-col justify-center items-center gap-5 pt-20 pb-12 rounded-md px-2 mb-10"
       >
         <img className="mx-auto " src={bgImg} alt="avata" />
         <div>
