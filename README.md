@@ -1,4 +1,4 @@
-![bpl_team](https://github.com/user-attachments/assets/c3e10e0e-d83f-4db8-9a6f-665e487a7022);
+![bpl_team](https://github.com/user-attachments/assets/c3e10e0e-d83f-4db8-9a6f-665e487a7022)
 
 
 # BPL Cricket Team
